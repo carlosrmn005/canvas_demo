@@ -36,8 +36,8 @@ The following **stretch** user stories are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1. 
-2.
+1. Are there any limitations to what assets can be dragged or resized in the canvas?
+2. Is there an easier way to drag the recognizers, or anything for that matter, into the function easier? Having to drag hem one by one is a drag.
 
 ## Video Walkthrough
 
